@@ -11,3 +11,7 @@ I built an algorithm that plays the game given n and k, and then spits out the l
 
 ## Possible Future Solution
 There is potential to use recursion here, though this is a work in progress for me.
+
+## Further Exploration
+- **Numberphile Video:** https://www.youtube.com/watch?v=uCsD3ZGzMgE
+- Wikipedia Page: https://en.wikipedia.org/wiki/Josephus_problem
