@@ -9,6 +9,8 @@ The question is: given n and k, what position is safe from death?
 ## My First Solution
 I built an algorithm that plays the game given n and k, and then spits out the last survivor.
 
+It is essentially a do-while loop with some modular logic and dictionary building.
+
 ## Possible Future Solution
 There is potential to use recursion here, though this is a work in progress for me.
 
